@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1594650304 source:e:\2020-07\studentgrademanage\baseclass.cpp
+	"baseclass.h"
+
+1594650304 e:\2020-07\studentgrademanage\baseclass.h
+	"stdafx.h"
+
+1594645153 e:\2020-07\studentgrademanage\stdafx.h
+	<iostream>
+	<string>
+	<cmath>
+	<cstdlib>
+
